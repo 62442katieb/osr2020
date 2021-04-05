@@ -1,4 +1,5 @@
 ## Welcome!
+[![DOI](https://zenodo.org/badge/244895112.svg)](https://zenodo.org/badge/latestdoi/244895112)
 
 This is the GitHub repository for the [OHBM2020 Open Science Room](https://ohbm.github.io/osr2020) (OSR).
 
